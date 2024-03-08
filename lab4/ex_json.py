@@ -1,6 +1,6 @@
 import json
 
-file_path = 'sample-data.json'
+file_path = 'C:\kbtu\pp2\\tsis\lab4\sample-data.json'
 
 with open(file_path, 'r') as file:
     data = json.load(file)
